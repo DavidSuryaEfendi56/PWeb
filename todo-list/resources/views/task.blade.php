@@ -21,7 +21,7 @@
         <!-- Main Content -->
         <div class="main-content">
             <div class="d-flex justify-content-between align-items-center mb-4">
-                <h3>Task Feed</h3>
+                <h3>Tasks Feed</h3>
                 <button id="toggleFormBtn" class="btn btn-success">+ Add Task</button>
             </div>
 
